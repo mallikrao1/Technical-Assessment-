@@ -19,5 +19,5 @@ Before getting started, ensure you have the following:
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/mallikrao1/Technical-Assessment-.git
+cd Technical-Assessment
