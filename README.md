@@ -21,3 +21,6 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/mallikrao1/Technical-Assessment-.git
 cd Technical-Assessment
+
+![image](https://github.com/user-attachments/assets/8a598c7b-3ca9-41e0-af79-d5b00b8c95a6)
+
