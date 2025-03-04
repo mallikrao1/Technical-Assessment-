@@ -14,6 +14,14 @@ Before getting started, ensure you have the following:
 - **Active Azure Subscription:** You need access to an Azure subscription.
 - **Git (optional):** To clone the repository.
 
+Concept:
+The positioning of applications/workloads in Azure is typically referred to as a Cloud Native Architecture (or as part of an Application Modernization strategy).
+
+Networking Structure:
+The recommended networking structure for the architecture is the Hub-and-Spoke Network Model.
+
+This approach centralizes shared services and connectivity in a "hub" while isolating application workloads in separate "spokes," ensuring secure, controlled communication between them.
+
 ## Setup Steps
 
 ### 1. Clone the Repository
