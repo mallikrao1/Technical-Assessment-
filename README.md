@@ -21,6 +21,12 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/mallikrao1/Technical-Assessment-.git
 cd Technical-Assessment
+az login
+az account set --subscription "your-subscription-id"
+terrafom init
+terraform plain
+terraform apply
+
 
 
 
